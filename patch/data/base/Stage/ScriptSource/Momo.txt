@@ -1,0 +1,187 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+
+#0100
+<KEY<SOU0011<DNP0100<FAO0000<TRA0056:0090:0072:0084
+
+#0110
+<KEY
+<SOU0011
+<ANP0110:0000:0002<WAI0010<HMC
+<ANP0110:0000:0000
+<MOV0015:0012<WAI0050
+<SOU0011
+<ANP0111:0000:0002<MYD0000<SMC<WAI0010
+<ANP0111:0000:0000<END
+#0111
+<KEY
+<SOU0011
+<ANP0111:0000:0002<WAI0010<HMC
+<ANP0111:0000:0000
+<MOV0015:0007<WAI0050
+<SOU0011
+<ANP0110:0000:0002<MYD0000<SMC<WAI0010
+<ANP0110:0000:0000<END
+
+
+#0200
+<KEY
+<FLJ1103:0212
+<ITJ0027:0211
+<FLJ1102:0206
+<ITJ0029:0210
+<ITJ0028:0209
+<FLJ1101:0208
+<FLJ1106:0204
+<FLJ1100:0201
+<ANP0200:0003:0005<WAI0050
+<ANP0200:0000:0005<WAI0020
+<MSG<FL+1100<FL+0961<FAC0022Tu es le sauveur
+dont me parlait Sue.<NOD<CLR
+Oh, Dieu merci...<NOD<CLRJe suis Momorin Sakamoto.<NOD
+la mere de Sue.<NOD
+J'ai pu survivre en
+travaillant pour
+le Docteur.<NOD
+Mais quand il a trouve
+les graines, je ne fus
+plus utile.<NOD
+Alors il m'a jete
+dans ce coin.<NOD<CLRIl n'y a plus
+de chevalerie, vraiment.<NOD<CLRMais peu importe.<NOD<CLRJe travaille sur
+la construction d'une fusee,<NOD
+qui permettrait d'acceder
+au trone du Docteur.<NOD
+Il me manque encore
+des pieces, cela dit.<NOD<CLO
+<ITJ0018:0202<ITJ0023:0203<EVE0201
+
+#0201
+<ITJ0018:0202<ITJ0023:0203
+<MSG<FAC0022Il me faudrait
+actuellement un Booster.<NOD
+Qui pourrait en avoir un...<NOD<END
+
+#0202
+<MSG<CLR.....<NOD<CLRAha.<NOD Il faut que je
+t'emprunte ca.<NOD<CLR
+<FAC0000<GIT1018Booster v0.8 pris.<NOD<GIT0000<CLR<FAC0022J'ai encore besoin
+de pieces pour finir
+la fusee.<NOD<CLO
+<IT-0018<EQ-0001<FL-0742
+<FL+1106
+<EVE0204
+
+#0203
+<MSG<CLR.....<NOD<CLRAha.<NOD Il faut que je
+t'emprunte ca.<NOD<CLR
+<FAC0000<GIT1023Booster v2.0 pris.<NOD<GIT0000<CLR<FAC0022J'ai encore besoin
+de pieces pour finir
+la fusee.<NOD<CLO
+<IT-0023<EQ-0032<FL-0743
+<FL+1106
+<EVE0204
+
+#0204
+<KEY<MSG<FAC0022Tu es occupe?<YNJ0205<CLRVraiment?<NOD
+Tant pis, alors...<NOD<END
+
+#0205
+<KEY<FL+1101<MSGAh, bonne reponse.<NOD
+T'es bien un sauveur.<NOD<CLRTiens, porte ce truc.<NOD<FAC0000
+<GIT1024<IT+0024<EQ+0064<FL+1020<MSG
+<CMU0010Obtenu Masque Mimiga.<WAI0160<NOD<RMU<CLO<GIT0000
+<MSG<FAC0022Adorable, vraiment mignon.<NOD
+Un peu grand, mais...<NOD<CLRLes Mimigas qui
+travaillent dans les champs
+ne peuvent pas parler
+aux humains.<NOD
+Mais avec ce masque,
+tu pourras leur parler.<NOD<CLRTu me suis?<NOD<EVE0207
+
+#0206
+<KEY<MSG<FAC0022<CLRIl faut que tu retrouves
+un homme nomme Itoh.<NOD<CLRC'est un grand trouillard,
+alors il ne doit pas
+etre loin.<NOD<END
+
+#0207
+<MSG<FL+1027<FL+1028<FAC0022Pour finir la fusee,
+Il me faut beaucoup
+d'electricite.<NOD
+Si tu peux me ramener un
+de ces arroseurs,<NOD
+je crois que je pourrais
+finir ca.<NOD<CLRAmene moi un arroseur,
+je te prie.<NOD<END
+
+#0208
+<KEY<MSG<FAC0022Pour finir la fusee,
+Il me faut beaucoup
+d'electricite.<NOD
+Un arroseur des champs
+pourrait suffire.<NOD<CLRAmene moi un arroseur,
+je te prie.<NOD<END
+
+#0209
+<KEY<MSG<FAC0022Bienvenue.<NOD<CLR<FAC0000<GIT1028Vous lui montrez l'arroseur casse.<NOD<CLR<FAC0022Hrmmm...<NOD<CLRCet arroseur n'a
+plus de batteries.<NOD<GIT0000
+Je peux rien faire avec ca.<NOD<END
+
+#0210
+<KEY<FL+1102<FL+1107<MSG<FAC0022Bienvenue.<NOD<CLR<FAC0000
+<GIT1029<IT-0029Vous lui montrez l'arroseur.<NOD<CLR<FAC0022Voyons...<NOD<CLRY a plein de jus dans
+ces batteries.<NOD
+Ca devrait le faire.<NOD<GIT0000<SOU0011<CNP0250:0072:0002<CLO<WAI0030
+<MSGEnsuite, Il faut que
+tu retrouves un homme
+nomme Itoh.<NOD<CLRC'est un "ingenieur
+de grand talent",
+comme il le dit.<NOD<CLRMais c'est un des mecs
+les plus timides que j'aie vu.<NOD
+Il a fui le Docteur
+des le debut, mais il ne
+doit pas etre loin.<NOD<END
+
+#0211
+<MSG<FL+1103<FAC0022Bienvenue.<NOD<CLRTu as trouve Itoh?<NOD<CLR
+<FAC0000<GIT1027<IT-0027Donne le Controlleur.<NOD<CLR<FAC0022C'est bien ca.<NOD
+C'est le Controlleur
+dont il est si fier.<NOD<GIT0000<CLRHmmm...<NOD<CLRL'analyse serait plus
+rapide avec lui dans
+le coin.<NOD<CLRMais je vais me
+debrouiller.<NOD<EVE0212
+
+
+#0212
+<KEY<MSG<FAC0022Merci beaucoup.<NOD<CLRCa va prendre un moment,<NOD
+alors pourquoi ne pas
+te reposer en bas?<NOD<END
+
+#0250
+
+#0280
+<KEY<MSGSe reposer?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR.....<NOD<CLO
+<WAI0050<FLJ1103:0281
+<LI+1000<SOU0020<MYD0002<MSGSante restauree.<NOD<CLO<CMU0002<FAI0004<END
+
+#0281
+<FL-1103<FL+1105<FL+1030<FL+1031<FL+1032<FL+1033<FL+1004<FL-1038<FL+1039
+<FL-1026<FL+1036
+<MSG.....<NOD<CLO<DNP0200<DNP0350
+<LI+1000<SOU0020<MYD0002<MSGVous vous reveillez apres
+un long sommeil.<NOD<CLO<CMU0002<FAI0004<END
+
+
+#0350
+<KEY<MSGUne fusee...?<NOD<END
+

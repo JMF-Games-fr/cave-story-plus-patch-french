@@ -1,0 +1,338 @@
+#0000
+<FRE<WAI9999<END
+
+#1000
+<MSG<TURAucune arme.<WAI9999<END
+#1001
+<MSG<TUR- Snake -
+Passe au travers des murs.
+Cree par Chaba dans le Labyrinthe.<WAI9999<END
+#1002
+<MSG<TUR- Etoile Polaire -
+Le pistolet le plus basique.
+Il porte la marque Polaris.
+<WAI9999<END
+#1003
+<MSG<TUR- Boule de Feu -
+Rebondit sur le sol.
+Plutot puissant sur les pentes.<WAI9999<END
+#1004
+<MSG<TUR- Mitrailleuse -
+Un pistolet automatique.
+Se recharge automatiquement.<WAI9999<END
+#1005
+<MSG<TUR- Lance-roquettes -
+Provoque de lourds degats.
+Cependant, munitions limitees.<WAI9999<END
+#1007
+<MSG<TUR- Canon a Bulles -
+Provient d'une cheminee du village.
+A vous de voir comment l'utiliser.<WAI9999<END
+#1009
+<MSG<TUR- Epee -
+Une arme de courte portée puissante.
+L'ame de King en est impregnee.<WAI9999<END
+#1010
+<MSG<TUR- Super Missile -
+Une mise a jour du lance-roquettes.
+Son acceleration est incomparable.<WAI9999<END
+#1012
+<MSG<TUR- Nemesis -
+Le tonnerre de la deesse.
+Pour les joueurs aguerris.<WAI9999<END
+#1013
+<MSG<TUR- Spur -
+Maintenez appuye pour
+tirer un laser.<WAI9999<END
+
+#1100
+<MSG<TURHajime<WAI9999<END
+#1101
+<MSG<TURMick<WAI9999<END
+#1102
+<MSG<TURShinobu<WAI9999<END
+#1103
+<MSG<TURKakeru<WAI9999<END
+#1104
+<MSG<TURNene<WAI9999<END
+
+#1200
+<MSG<TURUn des chiens de Jenka et leur chef.
+En recherchant ses freres, il s'est
+perdu et a ete trouve par Curly.<WAI9999<END
+#1201
+<MSG<TURUn des chiens de Jenka. Adore
+chasser des tresors.
+Ou plutot des *coffres*, et on le
+voit parfois dormir dedans.<WAI9999<END
+#1202
+<MSG<TURUn des chiens de Jenka. Aime
+les endroits sombres. A cause de sa
+vue, il utilise son instinct
+pour trouver son chemin.<WAI9999<END
+#1203
+<MSG<TURUn des chiens de Jenka. Adore les
+os et aime les enterrer partout,
+oubliant parfois ou il les met.<WAI9999<END
+#1204
+<MSG<TURUn des chiots de Jenka. Passe
+son temps a dormir, peut predire
+l'avenir dans ses reves.<WAI9999<END
+
+#5000
+<MSG<TURPas d'objet.<WAI9999<END
+#5001
+<MSG<TURCle de Arthur<WAI9999<END
+#5002
+<MSG<TURGPS<WAI9999<END
+#5003
+<MSG<TURCle de Santa<WAI9999<END
+#5004
+<MSG<TURPendentif<WAI9999<END
+#5005
+<MSG<TURBeast Fang<WAI9999<END
+#5006
+<MSG<TURCapsule de Vie<WAI9999<END
+#5007
+<MSG<TURMultipass<WAI9999<END
+#5008
+<MSG<TURJus de Meduse<WAI9999<END
+#5009
+<MSG<TURCle rouillee<WAI9999<END
+#5010
+<MSG<TURCle Gum<WAI9999<END
+#5011
+<MSG<TURChewing Gum<WAI9999<END
+#5012
+<MSG<TURCharbon<WAI9999<END
+#5013
+<MSG<TURExplosif<WAI9999<END
+#5014
+<FLJ3000:1100
+<FLJ3001:1101
+<FLJ3002:1102
+<FLJ3003:1103
+<FLJ3004:1104
+<MSG<TURToutou<WAI9999<END
+#5015
+<MSG<TURPot de vie<WAI9999<END
+#5016
+<MSG<TURGueritou<WAI9999<END
+#5017
+<MSG<TURCle de la Clinique<WAI9999<END
+#5018
+<MSG<TURBooster v0.8<WAI9999<END
+#5019
+<MSG<TURProtege-bras<WAI9999<END
+#5020
+<MSG<TURTurbocharge<WAI9999<END
+#5021
+<MSG<TURRespirateur de Curly<WAI9999<END
+#5022
+<MSG<TURCompteur Nikumaru<WAI9999<END
+#5023
+<MSG<TURBooster v2.0<WAI9999<END
+#5024
+<MSG<TURMasque Mimiga<WAI9999<END
+#5025
+<MSG<TURCle du Teleporteur<WAI9999<END
+#5026
+<MSG<TURLettre de Sue<WAI9999<END
+#5027
+<MSG<TURControlleur<WAI9999<END
+#5028
+<MSG<TURArroseur casse<WAI9999<END
+#5029
+<MSG<TURArroseur<WAI9999<END
+#5030
+<MSG<TURCorde<WAI9999<END
+#5031
+<MSG<TURMedaille d'argile<WAI9999<END
+#5032
+<MSG<TURPetit bonhomme<WAI9999<END
+#5033
+<MSG<TURBadge Champignon<WAI9999<END
+#5034
+<MSG<TURMaman Pignon<WAI9999<END
+#5035
+<MSG<TURSlip de Curly<WAI9999<END
+#5036
+<MSG<TURMedaille Alien<WAI9999<END
+#5037
+<MSG<TURRouge a levres de Chaco<WAI9999<END
+#5038
+<MSG<TUREtoile Capricieuse<WAI9999<END
+#5039
+<MSG<TURLien d'Acier<WAI9999<END
+
+#6000
+<MSG<TURPas d'objet.<WAI9999<END
+#6001
+<MSG<TURLa cle de la maison de Arthur.
+Cachee derriere la tombe de Arthur.<WAI9999<END
+#6002
+<PRI<EVE7002<MPJ7002<MSGNo data for this floor.<NOD<CLR<END
+#6003
+<MSG<TURLa cle de la maison de Santa.<WAI9999<END
+#6004
+<MSG<TURUn pendentif en forme de poisson.
+Vu son etat, il semble avoir ete
+fait il y a des siecles.<WAI9999<END
+#6005
+<MSG<TURA sharp fang found at the
+Yamashita Farm. Is its owner still
+alive...?<WAI9999<END
+#6006
+<MSG<TURUne capsule de vie.<WAI9999<END
+#6007
+<MSG<TURUne carte magnetique trouvee dans
+l'oeuf No. 06.<WAI9999<END
+#6008
+<MSG<TURUn fluide qui peut eteindre
+les feux de bois.<WAI9999<END
+#6009
+<MSG<TURUne cle rouillee.<WAI9999<END
+#6010
+<MSG<TURIl y a une etiquette "Gum".<WAI9999<END
+#6011
+<MSG<TURUne barre de chewing gum.<WAI9999<END
+#6012
+<MSG<TURPris dans une cheminee.<WAI9999<END
+#6013
+<MSG<TURUn explosif pour ouvrir des portes.<WAI9999<END
+#6014
+<FLJ3000:1200
+<FLJ3001:1201
+<FLJ3002:1202
+<FLJ3003:1203
+<FLJ3004:1204
+<MSG<TURUn des chiens de Jenka.<WAI9999<END
+#6015
+<KEY<MSGCeci restaurera votre sante,
+mais une seule fois. L'utiliser?<YNJ0000<LI+1000<SOU0020<IT-0015<MSG
+Sante restauree.<FRE<WAI9999<END
+#6016
+<MSG<TURAparemment ca peut soigner
+tout et n'importe quoi...<WAI9999<END
+#6017
+<MSG<TURC'est marque "Clinique
+du Labyrinthe".<WAI9999<END
+#6018
+<FLJ0742:7018
+<KEY<MSGAppuyez sur saut pendant un saut
+pour voler plus haut.<NOD<CLR
+S'en equiper?<YNJ0000<EQ+0001<FL+0742<EQ-0032<FL-0743<MSG
+Booster en place.<NOD<WAI0003<FRE<EVE5018
+#6019
+<MSG<TURReduction de perte d'energie des
+armes quand vous prenez des degats.<WAI9999<END
+#6020
+<MSG<TURAugmente la vitesse de rechargement
+de la mitrailleuse.<WAI9999<END
+#6021
+<MSG<TURPour respirer sous l'eau.
+Appartient à Curly.<WAI9999<END
+#6022
+<MSG<TURUn chronometre automatique.
+Il n'a pas de boutons.<WAI9999<END
+#6023
+<FLJ0743:7023
+<KEY<MSGAppuyez sur saut pendant un saut et
+bougez dans toutes les directions.<NOD<CLR
+S'en equiper?<YNJ0000<EQ+0032<FL+0743<EQ-0001<FL-0742<MSG
+Booster v2.0 en place.<NOD<WAI0003<FRE<EVE5023
+#6024
+<MSG<TURUn masque Mimiga fait par la mere
+de Sue. Il est un peu grand...<WAI9999<END
+#6025
+<MSG<TURUne cle pechee par un certain
+Mimiga.<WAI9999<END
+#6026
+<KEY<MSGLa lire?<YNJ0000<MSG<TUR
+C'est moi, Sue.<NOD<CLRJe ne pense pas t'en avoir 
+assez dit sur nous.<NOD<CLRNous sommes venus sur cette ile
+pour faire des recherches.<NOD<CLRLe Prof. Booster etait dans
+l'helico, avec ma mere, mon frere,<NOD<CLRdes assistants...
+Le Docteur aussi.<NOD<CLRIl etait la pour les besoins
+medicaux, et a fait son job...<NOD<CLRDu moins, jusqu'a ce qu'il trouve
+la Couronne du Demon...<WAI0020<NOD<CLRCette couronne, propriete du maitre
+de cette ile,<NOD<CLRdonnait des pouvoirs magiques 
+monstrueux a son porteur...<NOD<CLRLe Doctor le savait avant de venir,<NOD<CLRc'est pour ca qu'il etait avec nous.<NOD<CLRUne fois la couronne en sa
+possession, plus personne ne lui
+resistait.<NOD<CLROn n'a eu d'autre choix que de
+continuer les recherches sous ses
+ordres.<NOD<CLRLe Docteur veut asservir la Terre
+en se servant de l'ile comme QG.<NOD<CLRJe pense qu'il veut commencer par
+la surface en se servant des
+Mimigas comme armes.<NOD<CLRJ'ai pu un peu m'echapper, mais
+je crains pour la vie des autres 
+chercheurs...<NOD<CLRMaintenant il se sert des
+Mimigas non suspects pour cultiver
+plus de fleurs rouges.<NOD<CLRUne fois pret, il conduira
+les mimigas dans une frenesie
+meurtriere grace aux fleurs rouges.<NOD<CLRAvec ses terribles pouvoirs,
+il pourra controler les Mimigas
+enrages pour finir son plan.<NOD<CLR
+Et ca veut dire que, moi aussi,...<NOD<CLRSi tu peux sortir de cette cellule,
+va voir la cachette de la
+Plantation.<NOD<CLRSi ma mere va bien, elle y sera, 
+avec un plan d'attaque.<NOD<CLRJe t'en prie. Aide ma mere.<NOD<CLRLe mot de passe est
+"Litagano Motscoud".<NOD<CLR<FL+1024<FRE<MSGLa lettre s'arrete la...<WAI9999<END
+#6027
+<MSG<TURNecessaire pour faire une fusee.
+Fierte de Itoh, le peureux.<WAI9999<END
+#6028
+<MSG<TURUn arroseur casse.<WAI9999<END
+#6029
+<MSG<TURIl est tout neuf. ...On dirait.<WAI9999<END
+#6030
+<MSG<TURUn cordage pour robots.<WAI9999<END
+#6031
+<MSG<TURPetit et etonnament loud.
+Aucune utilite.<WAI9999<END
+
+#6032
+<MSG<TURHey! C'est encore loin?<WAI9999<END
+#6033
+<MSG<TURLe badge champignon obtenu d'un
+champignon. Aucune utilite.
+Non vraiment, y en a pas besoin...<FL+1563<WAI9999<END
+#6034
+<MSG<TURA pretendument le pouvoir de
+restaurer la memoire...<WAI9999<END
+#6035
+<MSG<TURTrouvee derriere un mur.
+une petite culotte verte avec un
+petit insigne. Aucune utilite.<WAI9999<END
+#6036
+<MSG<TURLa silouhette d'un alien est grave
+dessus. Aucune utilite.<WAI9999<END
+#6037
+<MSG<TURRouge a levres rouge.
+Aucune utilite.<WAI9999<END
+#6038
+<KEY<MSGUn bibelot obtenu de Chaba dans
+lelabyrinthe.
+Une Etoile Capricieuse.<NOD<FLJ0722:7038<CLR
+S'en equipper?<YNJ0000<EQ+0128<FL+0722<MSG
+Etoile capricieuse en place.<NOD<WAI0003<FRE<EVE5038
+#6039
+<MSG<TURVotre lien avec Curly Brace,
+la seule guerriere sur qui vous
+pouvez compter.
+Vous vous reverrez surement...<WAI9999<END
+
+#7002
+<MLP<END
+
+#7018
+<KEY<MSGL'enlever?<YNJ0000<EQ-0001<FL-0742<MSG
+Booster enleve.<NOD<WAI0003<FRE<EVE5018
+#7023
+<KEY<MSGL'enlever?<YNJ0000<EQ-0032<FL-0743<MSG
+Booster v2.0 enleve.<NOD<WAI0003<FRE<EVE5023
+
+#7038
+<KEY<MSGL'enlever?<YNJ0000<EQ-0128<FL-0722<MSG
+Etoile Capricieuse enlevee.<NOD<WAI0003<FRE<EVE5038
+

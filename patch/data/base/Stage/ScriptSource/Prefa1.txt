@@ -1,0 +1,37 @@
+
+#0090
+<MNA<CMU0030<FAI0000<END
+#0091
+<MNA<CMU0030<FAI0001<END
+#0092
+<MNA<CMU0030<FAI0002<END
+#0093
+<MNA<CMU0030<FAI0003<END
+#0094
+<MNA<CMU0030<FAI0004<END
+
+#0100
+<KEY<ANP0100:0000:0002<SOU0011<FAO0004<TRA0062:0094:0079:0073
+
+
+#0150
+<KEY<DNP0150<CNP0016:0016:0002<END
+
+
+
+#0200
+<KEY<MSGVous trouvez une note ecrite
+par Booster.<NOD
+La lire?<YNJ0000<CLR<TURL'exploration de l'ile serait plus
+efficace avec un equipement pour
+faciliter les mouvements aeriens.<NOD<CLRJ'ai donc commence le developpement
+du "Booster".<NOD<CLRLe developpement de cet engin
+volant se decline en deux phases,
+les versions 0.8 et 2.0.<NOD<CLRMes plans pour la v0.8 sont de
+donner la possibilite de flotter.<NOD<CLRJ'espere finir la v2.0,
+avant que je ne meure.<NOD<CLRElle promet d'etre encore
+plus utile.<NOD<CLO
+<FLJ0161:0000<WAI0050<MS2
+    Si je m'en sors vivant...<WAI0050<NOD<END
+
+

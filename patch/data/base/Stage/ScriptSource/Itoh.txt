@@ -1,0 +1,78 @@
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<KEY<FLJ1000:0095<MNA<CMU0008<FAI0004<EVE0200
+#0095
+<MNA<CMU0008<FAI0004<END
+
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0053:0094:0075:0005
+
+#0110
+<KEY<SOU0011<ANP0110:0000:0002<FAO0000<TRA0056:0090:0118:0083
+
+#0200
+<KEY<FL+1000<FL+1025<FL+1038<MYD0002<WAI0050
+<ANP0400:0010:0000<MSG
+Uwah!<NOD<CLO
+<ANP0400:0020:0000<WAI0050<END
+
+#0400
+<KEY
+<FLJ1003:0404
+<FLJ1102:0403
+<FLJ1002:0402
+<FLJ1001:0401<FL+1001<FL+1038
+<ANP0400:0010:0000
+<MSGEyaahh!<MYB0002<NOD<CLRNe me tue pas!<NOD
+J'suis un humain! J'ai juste
+ete change en Mimiga!
+J'suis humain!<NOD<CLRHuh?<NOD<CLR.....<NOD<CLR<ANP0400:0000:0000<FAC0028Comment?
+Tu n'es pas un robot tueur?<NOD
+Tu m'as fait la peur
+de ma vie, en arrivant
+comme ca!<NOD<CLRTu ne serais pas un
+sauveur, par hasard?<NOD<END
+
+
+#0401
+<KEY<FL+1002
+<MSG<FAC0028Je suis Itoh, un des humains
+venus faire des recherches
+sur l'ile.<NOD
+Cette sorciere de Misery m'a
+change en Mimiga...<NOD
+J'ai pu m'enfuir,
+mais...regarde moi.<NOD<CLRMaintenant je suis coince ici!<NOD<CLRT'as grimpe ici par
+l'exterieur, n'est-ce pas.<NOD
+Je suis un talentueux
+ingenieur,<NOD
+mais j'ai le vertige...<NOD<CLROh, pauvre de moi...<NOD<CLRJe n' aurais jamais du
+venir sur cette maudite ile.<NOD<END
+
+#0402
+<KEY<MSG<FAC0028Non, non, tu n'as surement
+pas besoin de quelqu'un
+d'aussi pathetique que moi.<NOD<END
+
+
+#0403
+<KEY<MSG<FL+1003<FAC0028Itoh?<NOD Oui, c'est moi.<NOD<CLRComment?<NOD
+Sakamoto travaille sur
+une fusee?<NOD<CLRAlors elle vit encore...<NOD
+Elle est vraiment forte.<NOD
+Pas comme moi, c'est sur...<NOD<CLRD'accord.<NOD
+Prends ceci.<NOD<FAC0000<GIT1027<IT+0027<CLR
+<CMU0010Obtenu le Controlleur.<WAI0160<NOD<RMU
+<CLR<FAC0028Je crois que c'est ce
+qu'elle cherche.<NOD<GIT0000<EVE0404
+#0404
+<KEY<MSG<FAC0028Envoie mes amities
+a Mme Sakamoto.<NOD<END
+

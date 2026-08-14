@@ -1,0 +1,68 @@
+
+#0090
+<MNA<FLJ0341:0095<CMU0013<FAI0000<END
+#0091
+<MNA<FLJ0341:0096<CMU0013<FAI0001<END
+#0092
+<MNA<FLJ0341:0097<CMU0013<FAI0002<END
+#0093
+<MNA<FLJ0341:0098<CMU0013<FAI0003<END
+#0094
+<MNA<FLJ0341:0099<CMU0013<FAI0004<END
+
+#0095
+<CMU0028<FAI0000<END
+#0096
+<CMU0028<FAI0001<END
+#0097
+<CMU0028<FAI0002<END
+#0098
+<CMU0028<FAI0003<END
+#0099
+<CMU0028<FAI0004<END
+
+#0100
+<PRI<FAO0000<TRA0011:0090:0045:0021
+
+
+#0105
+<PRI<MSGSauvegarder?<YNJ0000<SVP<CLR
+Jeu sauvegarde.<NOD<END
+#0106
+<PRI<LI+1000<SOU0020<AE+<MSG
+Sante restauree.<NOD<END
+
+#0200
+<KEY<MSG
+C'est notre ferme.
+On fait pousser des fleurs ici.<NOD
+Mon job est de surveiller la ferme.<NOD<CLRNous, Mimigas, dependons de
+ces fleurs pour survivre.<NOD<CLREn revanche, les fleurs rouges
+sont mauvaises.<NOD<CLRSi t'en manges une,
+il parait que ton sang bout et
+que tu tombes raide mort!<NOD<CLRHeureusement, on en a pas ici.<NOD<END
+
+
+#0220
+<KEY<FLJ1020:0221<MSG
+Un arroseur.<NOD<END
+#0221
+<KEY<MSG
+Il est fermement ancre au sol!<NOD<END
+
+#0300
+<PRI
+<FL+0410
+<DNP0300
+<MSG
+You don't see anything...<NOD<CLR<CMU0010<GIT1005<IT+0005
+How did you get the Beast Fang?
+...<WAI0160<NOD<CLO
+<RMU<END
+
+#0400
+<PRI<SOU0022<DNP0400<CMU0016
+<MSG<GIT1006
+Obtenu Capsule de vie.<WAI0160<NOD<RMU<ML+0003
+Sante max augmentee de 3.<NOD<END
+

@@ -1,0 +1,87 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0100
+<PRI<FAO0004<TRA0002:0094:0220:0007
+
+#0150
+<KEY<MSG
+Il y a des petales rouges
+par terre.<NOD<END
+
+#0200
+<KEY<MSG
+Vous trouvez une note.<NOD<CLR<TUR
+Avec ce champ de forces, impossible
+d'atteindre l'oeuf No. 00.<NOD<CLR<TUR
+Je crois qu'un de ces terminaux
+devrait pouvoir le desactiver...<NOD<END
+
+#0300
+<PRI<FLJ0200:0001<FL+0200
+<SOU0022<CNP0300:0021:0000
+<MSG
+Ouverture du coffre.<NOD<CLR<EVE0030
+
+
+#0500
+
+#0501
+<PRI<MS3<TUROeuf de Dragon Celeste No. 01
+Erreur: anomalie detectee.
+Inspection requise.<NOD<END
+#0502
+<PRI<MS3<TUROeuf de Dragon Celeste No. 02
+Conditions normales.<NOD<END
+#0503
+<PRI<MS3<TUROeuf de Dragon Celeste No. 03
+Conditions normales.<NOD<END
+#0504
+<PRI<MS3<TUROeuf de Dragon Celeste No. 04
+Conditions normales.<NOD<END
+#0505
+<PRI<MS3<TUROeuf de Dragon Celeste No. 05
+Condition normal.<NOD<END
+#0506
+<PRI<MS3<TUROeuf de Dragon Celeste No. 06
+Erreur: anomalie detectee.
+Inspection requise.<NOD<END
+#0507
+<PRI<MS3<TUROeuf de Dragon Celeste No. 07
+Conditions normales.<NOD<END
+#0508
+<PRI<MSG<TUROeuf de Dragon Celeste No. 08
+Conditions normales.<NOD<END
+#0509
+<PRI<MSG<TUROeuf de Dragon Celeste No. 09
+Conditions normales.<NOD<END
+#0510
+<PRI<MSG<TUROeuf de Dragon Celeste No. 10
+Conditions normales.<NOD<END
+#0511
+<PRI<MSG<TUROeuf de Dragon Celeste No. 11
+Conditions normales.<NOD<END
+#0512
+<PRI<MSG<TUROeuf de Dragon Celeste No. 12
+Conditions normales.<NOD<END
+#0513
+<PRI<MSG<TUROeuf de Dragon Celeste No. 13
+Conditions normales.<NOD<END
+#0514
+<PRI<MSG<TUROeuf de Dragon Celeste No. 14
+Conditions normales.<NOD<END
+#0515
+<PRI<MSG<TUROeuf de Dragon Celeste No. 15
+Conditions normales.<NOD<END
+#0516
+<PRI<MSG<TUROeuf de Dragon Celeste No. 16
+Conditions normales.<NOD<END

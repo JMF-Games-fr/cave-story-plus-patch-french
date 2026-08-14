@@ -1,0 +1,395 @@
++0192
+!0033
+[  = CAST =  ]0000
+-0320
+[- Gens de la surface -]0000-0064
+[Courageuse, cherche]0000-0016
+[ son frere]0000-0016
+[  Sue Sakamoto]0001-0064
+[Son frere parfois]0000-0016
+[ utile]0000-0016
+[  Kazuma Sakamoto]0002-0064
+[La mere de Sue]0000-0032
+[  Momorin Sakamoto]0003-0064
+[Le grand-pere modele]0000-0016
+[ de Sue]0000-0016
+[  Booster]0004-0064
+[Le peureux en]0000-0016
+[ forme de Mimiga]0000-0016
+[  Itoh]0005-0064
+-0063
+[- Village Mimiga -]0000-0064
+[Douce et brave]0000-0032
+[  Toroko]0013-0064
+[Le chef du village]0000-0032
+[  King]0014-0064
+[Le numero deux]0000-0032
+[  Jack]0015-0064
+[Il bouffe tout le temps]0000-0032
+[  Mahin]0016-0064
+[Aime pecher]0000-0032
+[  Kanpachi]0020-0064
+[Dirige la ferme]0000-0032
+[  Sandaime]0019-0064
+-0063
+[- Prairieville -]0000-0064
+[Vit seul]0000-0032
+[  Santa]0017-0064
+[Le Mimiga colore]0000-0032
+[  Chaco]0018-0064
+[Gardien du generateur]0000-0032
+[  Malco]0025-0064
+-0063
+[- Zone des Sables -]0000-0064
+[Allie des Mimigas]0000-0032
+[  Curly]0007-0064
+[Eleves au Curly]0000-0032
+[  The Colons]0008-0064
+[Gardien originel]0000-0016
+[ de la Zone des Sables]0000-0016
+[  Jenka]0009-0064
+-0031
+[Les Toutous de Jenka]0000-0032
+[  Hajime]0010-0032
+[  Shinobu]0010-0032
+[  Kakeru]0010-0032
+[  Mick]0010-0032
+[  Nene]0010-0064
+-0063
+[- Labyrinthe -]0000-0064
+[L'armurier]0000-0016
+[ du Labyrinthe]0000-0016
+[  Chaba]0027-0064
+[Le physicien resident]0000-0016
+[ du Labyrinthe]0000-0016
+[  Dr. Gero]0028-0064
+[J'suis infirmiere!]0000-0032
+[  Nurse Hasumi]0029-0064
+-0063
+[- Plantation -]0000-0064
+[La fille Mimiga]0000-0032
+[  Chie]0023-0064
+[Le grand-pere Mimiga]0000-0032
+[  Zett]0024-0064
+[Le chef des arroseurs]0000-0032
+[  Megane]0022-0064
+[Partisans du]0000-0016
+[ Docteur]0000-0016
+[  The Shovel Brigade]0021-0064
+-0063
+
+f2000:0090
+[- Mechants -]0000-0064
+[Le traitre assoife]0000-0016
+[ de pouvoir]0000-0016
+[  Le Docteur]0006-0064
+[Le larbin du Docteur]0000-0032
+[  Misery]0011-0064
+[Punching bag de Misery]0000-0032
+[  Balrog]0012-0064
+-0063
+[- Etcetera -]0000-0064
+[L'armurier ermite]0000-0032
+[  Tetsuzou Kamadani]0035-0064
+[Le mysterieux]0000-0016
+[ champignon]0000-0016
+[  Maman Pignon]0045-0064
+[La famille vivant]0000-0016
+[ dans les murs]0000-0016
+[  Les Littles]0031-0064
+[Les mysterieux]0000-0016
+[ autochtones]0000-0016
+[  Cthulhu]0032-0064
+[Le tailleur de statues]0000-0032
+[  Numahachi]0088-0064
+j0100
+
+l0090
+[- Mechants -]0000-0064
+[Seduit par la couronne]0000-0032
+[  Le Docteur]0006-0064
+[Maudite par la couronne]0000-0032
+[  Misery]0011-0064
+[L'ami ultime]0000-0032
+[  Balrog]0012-0064
+-0063
+[- Autres -]0000-0064
+[L'armurier ermite]0000-0032
+[  Tetsuzou Kamadani]0035-0064
+[Le champignon anti-]0000-0016
+[ amnesique]0000-0016
+[  Maman Pignon]0045-0064
+[La famille vivant]0000-0016
+[ dans les murs]0000-0016
+[  The Littles]0031-0064
+[Les mysterieux]0000-0016
+[ autochtones]0000-0016
+[  Cthulhu]0032-0064
+[Le tailleur de statues]0000-0032
+[  Numahachi]0088-0064
+-0063
+[- Saint Pays Sanglant -]0000-0064
+[Le jeune frere]0000-0016
+[ souffreteux de Jenka]0000-0016
+[  Ballos]0103-0064
+l0100
+-0100
+~
+-0250
+!0001
++0063
+[ = Monstres = ]0000-0032
+-0063
+[ Sautille: Critter]0039-0048
+[ Toutes les grottes en ont: Bat]0040-0048
+[ Possede par quelque chose: The Door]0041-0048
+[ Charge quand en colere: Behemoth]0048-0048
+[ Champignon blanc: Pignon]0042-0048
+[ Delicieux: Giant Pignon]0043-0048
+[ Y en a qu'un seul: Chinfish]0038-0048
+[ Coupe en tranches: Gravekeeper]0044-0048
+[ Rampe sur le sol: Basil]0049-0048
+[ Insecte modele: Beetle]0046-0048
+[ Le gros volant: Basu]0047-0048
+[ L'ecraseur: Power Critter]0050-0048
+[ Fantome blanc: Mannan]0051-0048
+[ Pette grenouille: Puchi]0054-0048
+[ Gros crapaud: Frog]0055-0048
+[ Flotte: Jelly]0052-0048
+[ Reine des meduses: Kulala]0053-0048
+[ Mimiga Violent: Rabil]0057-0048
+[ Piege instantane: Press]0056-0048
+[ Gnappeur ninja: Sandcroc]0061-0048
+[ Tete balladeuse: Skullhead]0063-0048
+[ Coureur des sables: Skullstep]0065-0048
+[ Ennemi blanc: Skeleton]0062-0048
+[ Chasseur des sables: Crow]0064-0048
+[ Missile ruse: Armadillo]0060-0048
+[ Un pour tous: Polish]0059-0048
+[ Se repand partout: Baby]0058-0048
+[ Par Toroko frenesie: Flowercub]0066-0048
+[ Habitant du Labyrinthe: Gaudi]0067-0048
+[ Guerrier du Labyrinthe: Armor]0068-0048
+[ Bebe du Labyrinthe: Gaudi Egg]0069-0048
+[ Ventilo enflamme: Fire Whirrr]0071-0048
+[ Organisme inconnu: Buyobuyo Base]0073-0048
+[ Et: Buyobuyo]0072-0048
+[ Esprit Gaudi: Fuzz]0074-0048
+[ Noyau d'esprit: Fuzz Core]0075-0048
+[ Vieil ami: Porcupine Fish]0076-0048
+[ Echec d'eclosion: Dragon Zombie]0079-0048
+[ Explosif a rebours: Counter Bomb]0078-0048
+[ Flotteur du ciel: Night Spirit]0081-0048
+[ Saute: Hoppy]0082-0048
+[ Guerrier en Photosynthese: Midorin]0085-0048
+[ Ne sur terre: Droll]0084-0048
+[ Plateforme poisson: Gunfish]0086-0048
+[ Mere chauve souris: Orangebell]0083-0048
+[ Libellule de Plantation: Stumpy]0087-0048
+
+f2000:0190j0200l0190
+-0002
+[ Messager de l'Enfer: Bute]0098-0048
+[ Messager de l'Enfer: Mesa]0099-0048
+[ Demon innocent: Green Devil]0100-0048
+[ Roule sur les murs: Rolling]0094-0048
+[ Bloque le passage: Deleet]0095-0048
+l0200
+-0100
++0064
+[ = Bosses = ]0000-0032
+-0063
+[Mimiga frenesie qui]0000-0016
+[ a kidnappe Sue]0000-0016
+[  Igor]0091-0064
+[Misery a change]0000-0016
+[ Balrog en ca]0000-0016
+[  Balfrog]0104-0064
+[Monstre-machine cache]0000-0016
+[ dans le sable]0000-0016
+[  Omega]0105-0064
+[Eleve aux fleurs rouges]0000-0032
+[  Toroko Frenesie]0108-0064
+[Fantome de]0000-0016
+[ la clinique]0000-0016
+[  Pooh Black]0030-0064
+[Gros boss du labyrinthe]0000-0032
+[  Monster X]0070-0064
+[Coeur de l'ile]0000-0032
+[  Core]0106-0064
+[Gros poisson de]0000-0016
+[ l'ile]0000-0016
+[  Ironhead]0077-0064
+[Les jumelles]0000-0016
+[ dragons]0000-0016
+[  Sisters]0080-0064
+[Les vrais heros le voient]0000-0032
+[  Red Demon]0089-0064
+[Quand les cristaux]0000-0016
+[ rouges s'en melent]0000-0016
+[  Muscle Doctor]0109-0064
+[Le Docteur fou et]0000-0016
+[ le coeur de l'ile]0000-0016
+[  Undead Core]0107-0064
+f2000:0290j0300l0290
+-0002
+[L'ecraseur geant]0000-0032
+[  Heavy Press]0111-0064
+[Incarnation de haine]0000-0016
+[  et folie]0000-0016
+[  Ballos]0110-0128
+l0300
+-0080
++0040
+[ = BGM = ]0000-0032
+-0031
+[Access]0036-0032
+[Gestation]0036-0032
+[Mimiga Village]0036-0032
+[Plant]0036-0032
+[Balrog's Theme]0036-0032
+-0031
+[Gravity]0036-0032
+[Cemetery]0036-0032
+[Safety]0036-0032
+[Mischievous Robot]0036-0032
+[Pulse]0036-0032
+-0031
+[On to Grasstown]0036-0032
+[Eyes of Flame]0036-0032
+[Meltdown 2]0036-0032
+[Tyrant]0036-0032
+[Run!]0036-0032
+-0031
+[Jenka 1]0036-0032
+[Jenka 2]0036-0032
+[Labyrinth Fight]0036-0032
+[Geothermal]0036-0032
+[Oppression]0036-0032
+-0031
+[Living Waterway]0036-0032
+[Quiet]0036-0032
+[Scorching Back]0036-0032
+[Moonsong]0036-0032
+[Hero's End]0036-0032
+-0031
+[Cave Story]0036-0032
+[Last Cave]0036-0032
+[Balcony]0036-0032
+[Charge]0036-0032
+[Zombie]0036-0032
+-0031
+[Last Battle]0036-0032
+[Break Down]0036-0032
+[Running Hell]0036-0032
+[Seal Chamber]0036-0032
+[The Way Back Home]0036-0032
+-0100
++0040
+[= Grand mercis a =]0000-0032
++0048
+-0032
+[Torai      ]0037-0040
+[Naoku    ]0122-0040
+[Kuroihito]0119-0040
+[BA2       ]0033-0040
+[Okami      ]0120-0040
+[Nao       ]0117-0040
+[Shih Tzu  ]0123-0040
+[Gideon Zhi]0124-0040
+[And many others]0000-0040
+-0063
+[Trad FR par Max le Fou]0038-0040
+-0063
+l0300
+-0080
++0040
+[  CREDITS ]0000-0032
+-0031
+[Original Game Program]0000-0032
+[and Design]0000-0032
+[Daisuke Amaya]0000-0048
+
+[Executive Producer]0000-0032
+[Victor Rodriguez]0000-0048
+
+[Producer]0000-0032
+[Tyrone Rodriguez]0000-0048
+
+[Assistant Producer]0000-0032
+[Taro Serigano]0000-0048
+
+[Lead Porting Programmer]0000-0032
+[Evan Balster]0000-0048
+
+[Additional Programming]0000-0032
+[Simon Parzer]0000-0048
+
+[Artists]0000-0032
+[Michael Lambert]0000-0048
+[Daisuke Amaya]0000-0032
+[Tyrone Rodriguez]0000-0032
+[Peter McAlpine]0000-0032
+[Lindsay Collins]0000-0032
+[Adam Saltsman]0000-0054
+
+[Score and Sound Design]0000-0032
+[Yann van Der Cruyssen]0000-0032
+[Nicklas Nygren]0000-0048
+
+[Localization]0000-0032
+[Yoko Saito]0000-0032
+[Rie Hagihara]0000-0032
+
+[Lead Testers]0000-0032
+[Taeler Dixon]0000-0032
+[Michael Shirt]0000-0048
+
+[Testers]0000-0032
+[Erik Mayer]0000-0032
+[Matthew Price]0000-0032
+[Clay Sarafin]0000-0032
+[Christopher Lee]0000-0032
+[Oliver Chu]0000-0032
+[Ricardo Andrade]0000-0032
+[Andy Rears]0000-0032
+[Matthew Sichterman]0000-0032
+[Nicholas Mata]0000-0032
+[Christopher Nasiakos ]0000-0032
+[Chris Yule]0000-0032
+[Brendan Stephenson]0000-0032
+[Alex Barbour]0000-0032
+[Tavish Peckham]0000-0032
+[Cory Welch]0000-0032
+[Nitai Sasson]0000-0032
+[Andrew Sellars]0000-0032
+[Ray Griner]0000-0032
+[Nicholas Rodriguez]0000-0048
+
+[Very Special Thanks]0000-0032
+[Patrick, Pieter, Augusta,]0000-0032
+[Mike and John]0000-0032
+[Haruhi and Tamami]0000-0032
+[Mom, Miria, Maxx, Tamy,]0000-0032
+[Hiro Suzuki, the Saito's]0000-0032
+[Jim Loftus and you!]0000-0048
+-0100
++0040
+
++0048
+-0032
+
+-0063
+[Thank you very much!]0129-0032
+-0240
++0120
+[Cave Story ~ The End]0000
+-0280
+/
+
+<<<
+2000??????????
+
+
+
+

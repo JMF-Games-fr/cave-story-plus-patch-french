@@ -1,0 +1,83 @@
+
+#0090
+<MNA<CMU0000<FAI0000<END
+#0091
+<MNA<CMU0000<FAI0001<END
+#0092
+<MNA<CMU0000<FAI0002<END
+#0093
+<MNA<CMU0000<FAI0003<END
+#0094
+<MNA<CMU0000<FAI0004<END
+
+
+
+<FLJ1563:0101
+
+#0100
+<KEY<FLJ1564:0101<SOU0011<ANP0100:0000:0002
+<FAO0004<TRA0016:0094:0032:0002
+#0101
+<PRI<MSGCa ne s'ouvre pas!<NOD<END
+
+
+#0400
+<KEY<MYB0002<WAI0020
+<FLJ1563:0420
+<FLJ1562:0411
+<FLJ1561:0403<MSGOn a des affaires en cours?<YNJ0401<FLJ1044:0402<CLRHah!<NOD
+Ca m'etonnerait.<NOD<END
+
+#0401
+<KEY<MSGHeh-heh-heh. Bye, alors.<NOD<END
+
+#0402
+<KEY<FL+1561<MSGHm?<NOD Amnesie?<NOD
+Ca craint.<NOD<EVE0403
+#0403
+<KEY<MSGBien. Tu veux le badge
+Champignon?<YNJ0408<EVE0404<END
+
+#0404
+<KEY<MSGMais en fait tu n'en as
+pas besoin?<YNJ0405<EVE0408
+#0405
+<KEY<MSGTu le veux tant que ca?<YNJ0409<EVE0406
+#0406
+<KEY<MSGTu en est positivement et
+absolument sur que tu le veux?<YNJ0409<EVE0407
+#0407
+<KEY<MSGMais en fait tu n'en
+as pas besoin, hein?<YNJ0410<EVE0409
+
+#0408
+<KEY<MSGVraiment? Bon.<NOD<END
+#0409
+<KEY<MSGOuais, qui en aurait besoin...<NOD<END
+
+#0410
+<KEY<MSGBien, le voila!<NOD<CLR<GIT1033<IT+0033<FL+1562<CLR
+<CMU0010Obtenu le badge Champignon.<WAI0160<NOD<RMU<END
+
+#0411
+<KEY<MSGBzzzzzt.<NOD<END
+
+#0420
+<KEY<MSGHwahaha!<NOD
+T'as pige le truc, hein?<NOD<CLRC'est rien d'autre
+qu'un badge idiot!<NOD<CLR.....<NOD<CLRQuoi?<NOD
+Tu veux me manger?!<NOD<CLRJe suis un champignon de
+grande valeur, comme aucun autre
+de toutes les grottes!<NOD<CLRGrrrrrr!<NOD
+Je me laisserai pas me
+faire becqueter!<NOD<CLR<CMU0004Meurs!!<NOD<CLO<FL+1564
+<CNP0500:0313:0000<WAI0002
+<ANP0500:0100:0000<DNP0400
+<BSL0500<END
+
+
+#0500
+<KEY<CMU0000<ANP0500:0500:0005<WAI0150
+<MSGT'as gagne......<NOD<CLR<GIT1034<IT+0034<FL-1564<CLR<DNP0500
+<CMU0010Obtenu Maman Pignon!<WAI0160<NOD<RMU<END
+

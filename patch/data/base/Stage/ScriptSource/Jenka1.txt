@@ -1,0 +1,181 @@
+
+#0090
+<MNA<CMU0019<FAI0000<END
+#0091
+<MNA<CMU0019<FAI0001<END
+#0092
+<MNA<CMU0019<FAI0002<END
+#0093
+<MNA<CMU0019<FAI0003<END
+#0094
+<MNA<CMU0019<FAI0004<END
+
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0010:0094:0035:0026
+
+
+#0200
+<KEY
+<ITJ0014:0201
+<FLJ0594:0214
+<FLJ0593:0213
+<FLJ0592:0212
+<FLJ0591:0211
+<FLJ0590:0210
+<KEY<MSG<FAC0013Qui es-tu...?<NOD
+Je ne t'avais jamais
+vu avant.<NOD<END
+
+#0201
+<IT-0014
+<FLJ0594:0224
+<FLJ0593:0223
+<FLJ0592:0222
+<FLJ0591:0221
+<FLJ0590:0220
+<KEY<MSG<FAC0013Oh!<NOD<CLR<GIT1014Mon precieux toutou!<NOD<CLR
+<GIT0000<FAC0000Vous lui rendez le toutou.<NOD<CLR<CNP0300:0130:0000<DNP0401<FL-0274<FAC0013Tu me l'as ramene,
+je suppose?<NOD
+Grand merci.<NOD<CLRComment?<NOD
+Les fleurs rouges?<NOD<FAC0000<CLR<CMU0000<MSGHuzzah!<NOD<CLO
+<CNP0400:0009:0000<WAI0010<MYD0002<CNP0300:0132:0002<ANP0300:0100:0002<WAI0120<CMU0011
+<CNP0400:0012:0000
+<MSG<FAC0005Comment ca va, Jenka?<NOD<CLR<FAC0013Ah, Balrog.<NOD<ANP0300:0120:0002
+Tu vas bien, je vois.<NOD
+Comment va ma sorciere
+de fille?<NOD<CLR<FAC0014Hee-hee-hee!<NOD
+Sorciere? Tu parles
+de Misery?<NOD
+Elle va tres bien.<NOD<CLRUn nouveau maitre
+est apparu.<NOD
+Cette fois, la Terre
+sera notre!<NOD<CLR<FAC0013Alors une fois de plus,
+vous deux...<NOD<CLR<FAC0005Je ne suis pas la
+pour causer des ennuis.<NOD
+Je veux juste la cle
+du stockage.<NOD<CLRL'endroit ou se trouve
+les graines!<NOD<CLR<FAC0013.....<NOD<CLRMa...<NOD
+De quoi tu parles?<NOD<CLR
+<ANP0400:0030:0000<FAC0014Hoho!<NOD<CLROn joue les vieilles
+idiotes?!<NOD<CLR<FAC0005.....<NOD<CLRJe vois.<NOD
+Tu as choisi de nous trahir.<NOD<CLO<CMU0000
+<WAI0050<FAC0005<MSGTu le regretteras.<NOD<CLO
+<FAC0000<ANP0400:0010:0000<WAI0200<CMU0019
+<MSG<FAC0013<CNP0300:0130:0000Un nouveau maitre...<NOD
+C'est mauvais.<NOD<MYD0200<CLR.....<NOD<CLRIl en reste encore quatre.<NOD
+Quatre autres
+toutous...<NOD<CLRMes hanches sont si faibles.<NOD<CLRPourrais-tu aider
+cette vieille femme
+a les retrouver?<NOD<FL+0590<END
+
+#0210
+<KEY<MSG<FAC0013Il en reste quatre...<NOD
+Pourrais-tu aider
+cette vieille femme
+a les retrouver?<NOD<END
+
+#0211
+<KEY<MSG<FAC0013Il en reste trois.<NOD
+Bonne chance.<NOD<END
+
+#0212
+<KEY<MSG<FAC0013Je crois que
+mes cheris t'apprecient.<NOD<CLREncore deux...<NOD<END
+
+#0213
+<KEY<MSG<FAC0013Plus qu'un seul...<NOD
+J'aimerais vraiment que
+tu abandonnes cette idee
+de fleurs rouges.<NOD<END
+
+
+#0220
+<KEY<MSG<FAC0013Eh bien, c'est rapide.<NOD<CLR<GIT1014C'et bien un de
+mes cheris.<NOD<CLR
+<GIT0000<CNP0301:0130:0000<DNP0401<FAC0000Vous lui rendez le toutou.<NOD<CLR<FL-0274<FAC0013Hmmm...<NOD
+Tu es un soldat de
+la surface, n'est-ce pas.<NOD<CLR.....<NOD<CLRC'etait il y a peu, quand
+des centaines de robots
+comme toi sont venus ici.<NOD
+Beaucoup de Mimigas ont
+peri de leurs mains.<NOD
+Ainsi que les humains
+qui les protegeaient.<NOD<CLRCernes, les Mimigas
+ont finalement ingere
+les fleurs rouges interdites,<NOD
+et ont contre-attaque
+les robots dans une
+rage devastatrice.<NOD<CLRSans les fleurs rouges,
+la race des Mimigas
+se serait eteinte<NOD
+de l'ile...<NOD<CLREncore trois.<NOD Bonne chance.<NOD<FL+0591<END
+
+#0221
+<KEY<MSG<FAC0013Oooh.<NOD<CLR<GIT1014Oui, oui.<NOD
+C'est certes un de
+mes toutous adores.<NOD<CLR
+<GIT0000<CNP0302:0130:0000<DNP0401<FAC0000Vous lui rendez le toutou.<NOD<CLR<FL-0274<FAC0013Merci bien.
+On en a trois a present...<NOD<CLR.....<NOD<CLRAs-tu deja vu
+un Mimiga frenesie?<NOD<CLRLes Mimigas encercles
+esperaient que les fleurs
+rouges leur donnerait force.<NOD
+Ils les ont manges, et ils
+ont combattu les robots.<NOD<CLR
+Cependant...<NOD<CLRSais-tu ce qui
+leur arrive apres?<NOD<CLR.....<NOD<CLRC'est assez triste...<NOD
+Les Mimigas enrages,
+incapables de controller
+leurs actions, disparaissent
+sans laisser de traces.<NOD
+Si les rumeurs sont exactes,
+ils descendent vers
+la surface,<NOD
+la ou vivent les humains.<NOD<CLRUne armee de feroces
+Mimigas laches dans
+la nature...<NOD
+Si c'etait vrai...<NOD<CLRComprends-tu maintenant?<NOD
+Comprends-tu combien
+les fleurs rouges
+sont dangereuses?<NOD<CLR.....<NOD<CLRPlus que deux...<NOD<FL+0592<END
+
+#0222
+<KEY<MSG<FAC0013Ils semblent t'adorer.<NOD
+Mes toutous ne gachent
+pas d'affection sur
+les mauvaises gens.<NOD<CLR<GIT1014Merci bien...<NOD<CLR
+<GIT0000<FAC0000Vous lui rendez le toutou.<NOD<CLR<CNP0303:0130:0000<DNP0401<FL-0274
+<FAC0013.....<NOD<CLRTu veux la cle de
+stockage, n'est-ce pas.<NOD
+La ou se trouvent
+les fleurs rouges...<NOD<CLRPeu importe qui tu es,
+tu ne l'auras pas.<NOD
+Ouvrir le stockage
+ferait que la tragedie
+se repetera...<NOD<CLRUn, deux, trois...<NOD<CLRIl n'en reste qu'un.<NOD<FL+0593<END
+
+#0300
+<FLJ0590:0310<END
+#0301
+<FLJ0591:0311<END
+#0302
+<FLJ0592:0312<END
+#0303
+<FLJ0593:0313<END
+#0304
+<FLJ0594:0314<END
+
+#0310
+<KEY<MSGArf!<NOD<END
+#0311
+<KEY<MSGArf arf!<NOD<END
+#0312
+<KEY<MSGArf arf arf!<NOD<END
+#0313
+<KEY<MSGBooop.<NOD<END
+#0314
+<KEY<MSGCinq!<NOD<END
+
+
+#0400
+#0401
+

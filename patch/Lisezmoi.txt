@@ -1,0 +1,52 @@
+CAVE STORY+
+PATCH FRANCAIS
+===============
+
+AVERTISSEMENTS
+==============
+- Ce patch ne fonctionne que sur la version PC de Cave Story+ Steam et non-steam.
+  Il ne fonctionne pas pour la version Wii (J'aurais bien voulu...)
+
+- Ceci est un patch qui va remplacer des fichiers originaux du jeu sans faire
+  de backup. J'ai vérifié de nombreuses fois que les fichiers ne font rien bugguer.
+  Mais si toutefois vous constatez une anomalie, contactez-moi sur contact.maxlefou.com
+  et procedez comme suit:
+  - Si vous avez la version Steam, Allez dans les propriétés du jeu dans Steam et
+    vérifiez le cache. Puis laissez Steam arranger tout. Si ça n'a rien changé,
+    desinstallez et réinstallez le jeu.
+  - Si ce n'est pas la version Steam, réinstallez le jeu de la manière dont vous
+    l'avez installée.
+  
+- Le programme d'installation va vous demander où installer le patch. Par défaut,
+  c'est l'installation Steam de Cave Story+. Si vous n'avez pas la version Steam,
+  choisissez le dossier où se trouve l'éxécutable du jeu CS+.exe (Vérifiez bien que
+  le chemin est correct ou le patch sera mal installé)
+
+- La traduction étant faite par celui qui a fait la traduction française du freeware
+  original, elle est principalement basée là-dessus. Elle diffère donc pas mal du texte
+  original de Nicalis. (Un clin d'oeil pour les joueurs qui ont connu ma traduction du
+  freeware. Huzzah forever!)
+
+- La traduction ne concerne que les dialogues du jeu lui-même et de CurlyStory. 
+  - Les menus n'ont pas pu être traduits. En effet, l'interface est impossible à traduire,
+    étant hardcodée dans le programme, contrairement aux dialogues du jeu.
+  - Les noms des maps ne sont pas traduits. Je n'ai pas trouvé de bon editeur de
+    fichier tbl pour ça...
+  - Les Yes/No ne sont pas traduits ainsi que les textes du HUD. J'ai pourtant éssayé,
+    mais ça déconne quand on modifie les images pourtant en bmp. Si vous avez trouvé
+    le truc pour les modifier, n'hésitez pas à me le dire a contact.maxlefou.com pour
+    que je mette a jour le patch.
+  - Les modes de jeu autres que Curly Story et le jeu principal ne sont pas traduits.
+    Non pas qu'elle y soit impossible, elle est inutile. Quoique :p
+  
+- Je ne suis pas irréprochable avec la langue, même si j'ai fait mon maximum. Nazis de
+  la Grammaire s'abstenir. :p
+
+- Si vous avez pas joué au freeware original avant de jouer à CS+, honte à vous! :p
+
+Traduction et patch par Max le Fou
+http://cavestory.maxlefou.com
+http://jmf.maxlefou.com
+
+Cave Story+ appartient au Studio Pixel et à Nicalis. Ce patch n'est affilé à aucune des
+deux productions et n'est pas officielle.

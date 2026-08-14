@@ -1,0 +1,144 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+
+
+
+
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0000<MYD0000
+<FLJ0703:0101
+<TRA0039:0094:0084:0015
+#0101
+<FL+0704<TRA0039:0094:0084:0015
+
+#0105
+<KEY<FAO0004<TRA0039:0094:0091:0012
+
+#0200
+<KEY<MSG
+Le mysterieux robot,
+Monster X...<NOD
+Ta chance de l'attaquer
+est quand il s'ouvre.<NOD<END
+
+
+#0300
+<KEY<MSG
+Je suis physicien.<NOD
+Laisse moi te soigner.<NOD<CLO<LI+1000<SOU0020
+<FLJ0704:0304
+<FLJ0702:0303
+<ITJ0016:0302
+<FLJ0700:0301<FL+0700<WAI0050
+<MSG
+Non, non, c'est gratuit,
+t'en fais pas.<NOD<CLREn retour, cela dit, j'ai une
+requete a te formuler...<NOD<CLR
+Il y a une vieille clinique
+plus haut.<NOD
+Va voir s'il ne reste pas de
+medicaments la-bas.<NOD<CLR
+<GIT1017<IT+0017Obtenu Cle de la Clinique.<NOD<GIT0000<END
+#0301
+<KEY<MSG
+La clinique n'est pas loin.<NOD
+Va voir s'il y a des medicaments
+utilisables.<NOD<END
+#0302
+<KEY<MSG<IT-0016<FL+0702
+<GIT1016Donne le gueritou.<NOD<CLR<GIT0000
+Oh, tu l'as trouve!<NOD
+Merci.<NOD
+Je me charge du reste.<NOD<END
+#0303
+<KEY<MSG
+Merci.<NOD
+Je me charge du reste.<NOD<END
+#0304
+<KEY<MSG
+On dirait que le medoc fonctionne.<NOD
+Elle sera sur pied dans peu
+de temps.<NOD
+Et ce, grace a toi.<NOD<END
+
+#0310
+<FLJ0704:0313
+<FLJ0702:0312
+<FLJ0701:0311
+<KEY<MSG
+Je suis infirmiere.<NOD
+Je travaillais avant a la clinique,<NOD
+mais des fantomes l'ont investie,
+et j'ai fui ici.<NOD<END
+#0311
+<KEY<MSG
+Tu es son amie?<NOD
+Si tu tiens a elle, je te conseille
+de suivre les instructions
+du docteur.<NOD<END
+#0312
+<KEY<MSG
+Bien joue.<NOD
+Tu n'as pas vu de fantomes?<NOD<END
+#0313
+<KEY<MSG
+Oh, tu es revenu pour le voir?<NOD<CLRIl est parti vers
+"La salle du Rocher".<NOD<END
+
+#0320
+<FLJ0702:0322
+<FLJ0701:0321<FL+0701
+<KEY<MSG<FAC0019
+Oh, hey!<NOD<CLR
+Ca fait un bail qu'on
+s'est vus.<NOD
+T'as pas l'air en forme.<NOD<CLR
+Cette sorciere t'a jete
+ici aussi?<NOD
+Pareil pour moi!<NOD<CLR<FAC0020
+Tu n'as pas pu
+les battre, alors...<NOD
+Je mettais mes espoirs
+sur toi, mais...<NOD<CLR
+Moi, j'ai essaye.
+de toutes mes forces.<NOD
+Et voila ou ca m'a mene.<NOD<CLR
+Avec ton corps dans cet etat...<NOD
+...ca va etre dur pour
+toi de sortir...<NOD<END
+#0321
+<KEY<MSG<FAC0020
+T'as survecu jusqu'a
+maintenant...<NOD
+Mais qu'allons-nous faire?<NOD<END
+#0322
+<KEY<MSG<FAC0020
+C'est le legendaire
+Labyrinthe.<NOD
+J'ignore qui l'a concu,
+mais c'est apparemment
+la poubelle de l'ile.<NOD<CLR
+Il n'y a qu'une sortie.<NOD
+Il faut passer par l'entree
+bouchee par un rocher dans
+la salle du rocher.<NOD<CLR
+J'irais bien avec toi,<NOD
+mais dans ton etat, ce
+serait trop risque.<NOD<FL+0760<FL+0703<END
+
+
+#0400
+<KEY<FLJ0705:0001<FL+0705<SOU0022<CNP0400:0021:0000
+<MSG
+Ouverture du coffre.<NOD<GIT1019<IT+0019<EQ+0004<CLR
+<CMU0010Obtenu Protege-bras.<WAI0160<NOD<RMU<END
+

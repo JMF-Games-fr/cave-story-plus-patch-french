@@ -1,0 +1,106 @@
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0095
+<CMU0008<FAI0001<END
+
+#0100
+<PRI<FAO0000<TRA0012:0094:0053:0036
+
+
+
+#0200
+<KEY<FLJ1640:0201<FL+1640<SOU0022<CNP0200:0021:0000
+<MSG
+Ouverture du coffre.<NOD<GIT0002<AM+0002:0000<CLR<CMU0010
+Obtenu Etoile Polaire.<WAI0160<NOD<GIT0000<CLO<RMU
+<MSG
+Quelque part, une transmission...<FAO0004<NOD<TRA0018:0501:0002:0000
+
+#0201
+<PRI<MSG
+Vide.<NOD<END
+
+#0210
+
+
+#0300
+<KEY<MSG
+ZZZzzz...zzz...<NOD<END
+
+#0301
+<FLJ1644:0303
+<KEY<MSG
+T'as pas vu le flingue que j'ai
+construit, par hasard?<NOD
+Quelqu'un me l'a vole quand
+je dormais!<NOD
+J'aurais du le garder en poche
+pendant ma sieste...<NOD<AMJ0002:0302<CLRJe l'avais meme pas fini!<NOD
+encore un peu de boulot et j'en
+aurais fait une super arme.<NOD<CLR
+Ah, ou va le monde...<NOD<END
+
+#0302
+<KEY<MSG<CMU0000<MYB0002
+HEY!!<NOD<CLR
+C'est pas MON flingue, ca?!<NOD<CLR<GIT0002
+Qu'est-ce que tu fous avec?!
+Je l'ai pas fait pour toi!<NOD<CLR
+Rends moi ca!!<NOD<CLR<CNP0210:0150:0012<WAI0012<GIT0000<HMC
+Etoile Polaire prise...<NOD<CLR
+Hmph!<NOD
+Je vois qu'il t'a bien servi.<NOD<CLR
+.....<NOD<CLR
+Tu sais,<NOD j'ai toujours cru que les armes
+devaient etre construites par
+leurs utilisateurs.<NOD
+Quiconque combat avec l'arme
+d'un autre et croit s'approprier
+sa force est stupide.<NOD 
+Celui qui blame ses outils que
+sa propre force n'a pu creer
+est un fou...<NOD<CLR
+<CMU0008Cependant...<WAI0050<CLR
+Quand je vois combien tu t'es servi
+de ce flingue, ca me met les
+larmes aux yeux.<NOD
+Penser que ca a ete possible avant
+meme que le flingue soit fini...<NOD<CLR
+Hmm...<NOD<CLR
+Excuse moi d'avoir grogne.<NOD<CLR
+Tu peux garder ce pistolet.<NOD<CLR<CMU0000<FAO0001
+Quand je l'aurais fini, bien sur!<NOD<CLO
+<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<FL+1644<FL+0303<MSG
+<CMU0010<MSG<GIT0013
+L'Etoile Polaire est devenue
+le Spur!<SMC<DNP0210<WAI0160<NOD<CMU0008<END
+
+#0303
+<KEY<MSG
+Dans ce monde, il existe un
+equilibre entre les createurs et
+les utilisateurs.<NOD<CLR
+Je le savais, bien sur, mais j'ai
+pu l'experimenter grace a toi.<NOD
+J'aimerais a present me dedier
+a ce cote de la creation.<NOD
+Le labeur requis devient joie quand
+on sait qu'il y a ces deux la qui
+apprecieront mon travail.<NOD<END
+
+
+#0310
+<KEY<MSG<TUR
+"Termine."<NOD<END
+
+

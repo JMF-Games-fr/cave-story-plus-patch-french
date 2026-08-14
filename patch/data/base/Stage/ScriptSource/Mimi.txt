@@ -1,0 +1,271 @@
+
+#0090
+<MNA<FLJ0341:0095<CMU0009<FAI0000<END
+#0091
+<MNA<FLJ0341:0096<CMU0009<FAI0001<END
+#0092
+<MNA<FLJ0341:0097<CMU0009<FAI0002<END
+#0093
+<MNA<FLJ0341:0098<CMU0009<FAI0003<END
+#0094
+<MNA<FLJ0341:0099<CMU0009<FAI0004<END
+
+#0095
+<CMU0028<FAI0000<END
+#0096
+<CMU0028<FAI0001<END
+#0097
+<CMU0028<FAI0002<END
+#0098
+<CMU0028<FAI0003<END
+#0099
+<CMU0028<FAI0004<END
+
+
+#0100
+<PRI<FLJ0324:0102
+<ITJ0001:0101
+<MSGVerrouille.<NOD<END
+#0101
+<SOU0022<GIT1001<FL+0324<FL+0441
+<MSGUtilise Cle de Arthur.<NOD<GIT0000<CLO<EVE0102
+#0102
+<SOU0011<CNP0100:0000:0000<FAO0004<TRA0001:0094:0017:0008
+
+
+#0103
+<PRI<FAO0000<TRA0015:0090:0036:0014
+#0104
+<FLJ0327:0112
+<FLJ0360:0111
+<KEY<MSG<FAC0009Je suis Jack,<NOD
+le numero deux du village.<NOD<CLRCette porte conduit
+au cimetierre Mimiga,
+la ou le heros Arthur repose.<NOD<CLROh, ce que je fais?<NOD<CLRDes champignons se
+sont repandus dans
+le cimetierre,<NOD
+Alors je garde la porte
+pour les empecher de sortir.<NOD<END
+
+#0105
+<KEY<FLJ0360:0106<SOU0011<ANP0105:0000:0002<EVE0106
+#0106
+<KEY<FAO0004<TRA0014:0094:0005:0009
+
+#0107
+<PRI<SOU0011<CNP0107:0000:0000<FAO0004<TRA0019:0094:0007:0010
+
+#0108
+<PRI<FAO0002<TRA0017:0092:0002:0011
+
+#0109
+<PRI<FAO0004<TRA0020:0094:0010:0009
+
+#0110
+<PRI<FAO0000<TRA0012:0090:0055:0009
+
+#0111
+<KEY<FL+0327<FL+0443<MSG<FAC0009Quoi?!<NOD
+Toroko a ete enlevee?<NOD
+Oh, non!<NOD
+Il faut avertir King
+tout de suite!<NOD<CLO
+<MYD0000
+<ANP0111:0008:0000<WAI0208
+<ANP0111:0000:0002<WAI0010
+<SOU0011<ANP0107:0000:0002<WAI0030
+<DNP0111
+<SOU0011<ANP0107:0000:0000<END
+
+#0112
+<PRI<FAO0002<TRA0016:0092:0002:0012
+
+
+
+#0200
+<PRI<FLJ0322:0201<FL+0322<SOU0022<CNP0200:0021:0000
+<MSGOuverture du coffre.<NOD<GIT1002<IT+0002<EQ+0002<CLR
+<CMU0010Obtenu GPS!<WAI0160<NOD<RMU<EVE0201
+#0201
+<PRI<MSGIl y a une inscription...<NOD<CLR<TURTant que tu gardes l'esprit
+d'exploration, tu trouveras
+la sortie.<NOD
+C'est mon souhait le plus cher.<NOD<END
+
+#0300
+#0301
+<KEY<FLJ0323:0305<FL+0320<FL+0323
+<MSG.....<NOD<CLO
+<MYB0000<WAI0050<MYD0000<CNP0301:0061:0002<WAI0008<CNP0301:0061:0004
+<MSG<FAC0007Hein? Tu n'es pas un ennemi?<NOD
+Je croyais que c'etait
+encore eux...<NOD<CLRJe suis King.<NOD
+Le numero un du village.<NOD
+Ce qui ne veut plus dire
+grand chose, quand on
+est plus que six.<NOD<CLREnfin, sept en comptant Sue.<NOD<CLRMais elle n'est pas
+une des notres.<NOD
+C'est une etrangere qui
+est recemment arrivee.<NOD<END
+
+#0302
+<KEY<FL+0320<FL+0321<FON0302:0016<MNA<FAI0004<CMU0000<WAI0100
+<MSG<FAC0007Donne moi cette cle!<NOD<CLR<FAC0008Non!<NOD<CLR<FAC0007Tu essaies de proteger Sue?<NOD
+C'est une etrangere!
+Elle n'est pas des notres!<NOD<CLR<FAC0006Sue est une bonne personne.<NOD
+Je ne la trahirai pas!<NOD<CLR<FAC0007Toroko...<NOD
+Quand le Docteur viendra,
+tu sais qu'il prendra
+encore un des notres...<NOD
+Si on ne lui donne pas Sue,
+ce sera peut-etre toi
+la prochaine.<NOD<CLR<FAC0006Mais... Mais...<NOD<CLR<FAC0007La cle, Toroko!<NOD
+<FAC0000<CLO
+<MOV0013:0022
+<WAI0075<HMC<CNP0309:0150:0002<ANP0309:0010:0002<QUA0030
+<MSG?!<NOD<CLO
+<WAI0010
+<ANP0300:0006:0002
+<ANP0301:0006:0000
+<WAI0100
+<ANP0300:0006:0002
+<WAI0080
+<DNP0300
+<CMU0009
+<FOM0016<SMC<DNP0309<END
+
+
+#0305
+<KEY<MSG<FAC0007Retrouve Toroko...<NOD
+Elle s'est enfuie quand
+t'es tombe.<NOD<END
+#0306
+<KEY<MSG<FAC0007Grrrrr!<NOD<CLRToroko!<NOD
+Tu ne t'en tireras
+pas comme ca!<NOD<END
+#0307
+#0308
+<KEY<MYD0002<FAI0002<CMU0000<WAI0020
+<MSG<FAC0007Donne moi la cle!<NOD<CLR<FAC0008Non!<NOD<CLO
+<ANP0307:0006:0002<WAI0060
+<ANP0306:0006:0002<SOU0016<WAI0100<DNP0307<FL-0371<CMU0009<END
+#0309
+
+
+#0311
+<KEY<MSG*chomp chomp*<NOD<CLR!<NOD<CLO
+<MYB0000<ANP0311:0002:0004<WAI0030<MYD0000
+<FLJ0156:0313
+<FLJ0120:0312
+<FLJ0360:0314
+<MSGOh! Tu m'as fait peur...<NOD<CLRSue?<NOD
+Oh, oui.<NOD<CLRLa fille chez Arthur?<NOD
+Elle vit avec Toroko.<NOD<CLRUne gentille fille.<NOD
+Elle recherche un certain
+"Dragon Celeste"...<NOD
+Des dragons volant dans le ciel...
+Ces trucs existent vraiment?<NOD<ANP0311:0000:0002<END
+#0312
+<MSGOh, encore toi.<NOD<CLRSue a ete enfermee la-haut.<NOD
+Ils disent que Toroko a ete
+capturee a cause d'elle.<NOD<ANP0311:0000:0002<END
+#0313
+<KEY<MSGIl y a du monde chez Arthur...<NOD<CLRIls font une fete ou quoi?<NOD<ANP0311:0000:0002<END
+#0314
+<KEY<MSGQuoi?<NOD
+Toroko a ete enlevee?<NOD<CLRCa craint.<NOD
+Maintenant la seule fille
+du village, c'est Sue...<NOD<ANP0311:0000:0002<END
+
+#0400
+<KEY<FL-0155<FON0400:0016<FAI0004<MNA<CMU0000<WAI0100<ANP0600:0011:0002
+<MSG<FAC0003Liberez-moi tout de suite!<NOD<ANP0600:0000:0002<CLR<ANP0610:0000:0000<FAC0007La ferme!<NOD<CLRC'EST TOI la raison
+pour laquelle Toroko
+a ete enlevee!<NOD<CLRNotre seule chance est
+de t'echanger avec elle
+et esperer.<NOD<ANP0600:0011:0002<CLR<FAC0003Espece d'ordure!<NOD<ANP0600:0000:0002<CLR<FAC0007Si on ne recupere
+pas Toroko, je jure de
+te deplumer!<NOD<CLO<CMU0009
+<FOM0016<WAI0050<END
+
+
+#0410
+#0411
+#0420
+<KEY<HMC<CMU0000
+<CNP0410:0042:0002
+<CNP0411:0074:0000
+<ANP0610:0000:0000<WAI0100<MSG<FAC0007Alors on est...des armes?<NOD<CMU0009<FAI0004<CLR<FAC0002En effet.<NOD<CLRLe Docteur veut utiliser
+les fleurs rouges pour
+que vous attaquiez
+les humains.<NOD<CLR<FAC0009P--Pourquoi vouloir
+faire ca?!<NOD<CLR<FAC0002Cet homme est...
+...comme un demon.<NOD<CLR<FAC0009Et il va utiliser
+ces fleurs sur Toroko?<NOD<CLR<FAC0002Aussi loin que je sache,
+il ne les a pas encore
+trouvees.<NOD<CLROn ne peut qu'esperer
+qu'il ne les trouve pas.<NOD<CLR<FAC0009Si...<NOD<CLRS'il trouve ces
+fleurs, Toroko...<NOD<CLR<FAC0002Elle deviendrait sauvage...
+Une arme mortelle...<NOD<CLR<FAC0007Je ne les laisserai
+pas faire!<NOD<CLO
+<FL-0154<FL+0157
+<FAO0004<TRA0001:0620:0005:0008
+
+
+#0500
+<KEY<MSG<TUR            Haut: Ferme Yamashita
+Gauche: Reservoir Droite: Cimetierre
+           Bas: Maison de Arthur<NOD
+<END
+
+#0501
+<KEY<MSG<TUR
+              Ferme Yamashita<NOD<END
+#0502
+<KEY<MSG<TUR
+                 Reservoir<NOD<END
+#0503
+<KEY<MSG<TUR
+             Cimetierre Mimiga
+          Danger! Entree interdite<NOD<END
+#0504
+<KEY<MSG<TUR
+              Maison de Arthur<NOD<END
+#0505
+<KEY<MSG<TUR
+            Hall de l'Assemblee<NOD<END
+
+
+#0600
+<FLJ0224:0602
+<FLJ0325:0601
+<KEY<FL+0325<PS+0002:6002
+<MSG<FAC0001Ouaip, je suis coincee...<NOD<CLRLes larbins du Docteur
+ont kidnappe un Mimiga,
+en croyant que c'etait moi.<NOD
+Son nom est Toroko,<NOD
+et quand les autres Mimigas
+n'etaient pas cools avec moi,<NOD
+elle seule etait gentille.<NOD<CLR.....<NOD<CLRJe sais.<NOD<CLREt si t'y allais a ma place?<NOD<CLRMon frere est coince
+a Prairieville.<NOD
+Retrouve le et
+amene le ici.<NOD<END
+
+
+#0601
+<KEY<MSG<FAC0001Trouve mon frere
+et amene le ici.<NOD
+Tu peux aller a
+Prairieville avec le
+teleporteur chez Arthur.<NOD<END
+#0602
+<KEY<MSG<FAC0001Tu as retrouve mon frere?<NOD<END
+
+#0610
+<FLJ0224:0611
+<KEY<MSG<FAC0007Voila le destin de
+ceux qui veulent troubler
+la paix du village.<NOD<END
+#0611
+<KEY<MSG<FAC0007J'attends toujours...<NOD<END
+

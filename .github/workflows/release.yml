@@ -1,0 +1,44 @@
+name: Build and release patch
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install NSIS
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y nsis
+
+      - name: Build Windows installer
+        run: |
+          makensis installer.nsi
+          ls -l cspfrpatch.exe
+
+      - name: Package Linux patch archive
+        run: |
+          cd patch
+          zip -r ../cspfr-patch-linux.zip .
+          cd ..
+          ls -l cspfr-patch-linux.zip
+
+      - name: Publish GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            cspfrpatch.exe
+            cspfr-patch-linux.zip
+          generate_release_notes: true
+          draft: false
+          prerelease: false

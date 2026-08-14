@@ -1,0 +1,96 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+
+#0100
+<KEY<SOU0011<DNP0100<FAO0002<TRA0056:0092:0024:0082
+
+#0200
+<KEY
+<FLJ1020:0201
+<EVE0299
+
+#0201
+<KEY
+<FLJ1121:0203
+<ITJ0028:0202
+<MSGCe sont des arroseurs.<NOD
+Ils se cassent tout le temps.<NOD
+Alors on en a toujours un gros
+stock pret a servir.<NOD<END
+
+#0202
+<KEY<MSG<FL+1121Encore un...?<NOD<CLR<GIT1028<IT-0028Vous donnez l'arroseur casse.<NOD<GIT0000
+<KEY<MSGVas-y mollo avec celui la.<NOD<DNP0280<GIT1029<IT+0029<CLR
+<CMU0010Obtenu l'arroseur.<WAI0160<NOD<RMU<END
+
+#0203
+<KEY<MSGJ'ai entendu qu'ils avaient
+fini avec les dernieres graines!<NOD
+On a eu assez d'arroseurs,
+finalement...<NOD<END
+
+
+#0210
+<KEY
+<FLJ1033:0212
+<FLJ1020:0211
+<EVE0299
+
+#0211
+<MSGC'est vrai que des robots
+ont attaque l'ile dans le passe.<NOD
+Et je sais que nos semblables
+ont ete tues...<NOD
+Mais certains robots comprenaient
+la parole.<NOD
+Je crois qu'ils ont aussi
+des ames...<NOD<END
+
+#0212
+<MSGMaudit soit ce Docteur!<NOD<CLRAvoir emmene ce
+pauvre enfant avec lui!<NOD
+Si seulement on etait plus forts...<NOD
+J'ai honte...<NOD<END
+
+#0220
+<KEY<FLJ1020:0221
+<EVE0299
+#0221
+<MSGJe crois pas un mot de
+ce que dit ce Docteur!<NOD<CLRDes robots? Nyah!<NOD
+Comme si ca nous ferait peur.<NOD<END
+
+#0230
+<KEY<FLJ1020:0231
+<EVE0299
+#0231
+<MSGJe suis fatigue...<NOD<END
+
+#0250
+<KEY<MYB0000<MSGOh, hey.<NOD<CLROn s'est pas deja vus?<NOD
+Ouais, au village Mimiga.<NOD
+Quelqu'un appelle "Misery" m'a
+kidnappe et jete ici.<NOD
+J'aime vraiment pas bosser
+aux champs.<NOD<CLRJe vais aller
+pecher pour changer.<NOD<CLRTu aimes la peche?<NOD
+A plus tard!<NOD<CLO
+<ANP0250:0010:0002<WAI0030<MYD0002<WAI0080
+<ANP0250:0000:0002<WAI0020
+<ANP0250:0020:0002<ANP0100:0000:0002<SOU0011<WAI0020
+<DNP0250<ANP0100:0000:0000<SOU0011<FL+1120<FL+1021<END
+
+
+#0280
+#0299
+<PRI<MSG.....<NOD<END
+

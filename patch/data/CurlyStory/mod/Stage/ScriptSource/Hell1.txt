@@ -1,0 +1,75 @@
+
+#0090
+<MNA<CMU0036<FAI0000<END
+#0091
+<MNA<CMU0036<FAI0001<END
+#0092
+<MNA<CMU0036<FAI0002<END
+#0093
+<PRI<CMU0000<ZAM<ITJ0022:0095<EVE0096
+
+#0094
+<MNA<CMU0036<FAI0004<END
+
+#0095
+<EQ+0256<MS2<TUR
+<SOU0043<GIT1022Compteur active.<NOD<GIT0000<EVE0096
+
+#0096
+<MSGVous sentez un vent noir
+vous submerger.<NOD<CLR
+Toutes vos armes tombent
+au niveau 1!<NOD<CLO
+<FRE<MNA<CMU0036<FAI0003<END
+
+
+#0100
+<KEY<FAO0002<TRA0080:0090:0018:0097
+
+#0110
+<KEY<FLJ1531:0111
+<FOM0016<FAO0002<TRA0081:0092:0002:0013
+#0111
+<WAI0010<HMC<WAI0050
+<MYD0000<SMC<END
+
+#0200
+<PRI<MSG<TUR
+Bienvenue en Enfer!<NOD<END
+
+
+#0400
+<PRI<SOU0022<DNP0400
+<MSG<GIT1006
+Obtenu Capsule de vie.<NOD<ML+0005
+Sante max augmentee de 5.<NOD<END
+
+#0420
+<DNP0420
+<ANP0430:0030:0000<FON0430:0016
+<ANP0500:0032:0000<END
+#0430
+
+
+#0500
+<PRI<FL-1531<FL+1532<MS3<FAC0019
+Quote!<NOD<CLR<FAC0000
+<CNP0500:0259:0000<GIT1030Vous avez attache Quote
+avec la corde..<NOD<END
+
+
+#0900
+<DNP0900<SKJ0020:0000<SK+0020
+<PRI<MS3Savais-tu que la sorciere du nom
+de Jenka avait un frere?<NOD
+Son nom etait Ballos.<NOD
+Comme sa soeur, il avait des
+pouvoirs bien plus puissants
+que ceux des mortels...<NOD<END
+
+#0901
+<DNP0901<SKJ0021:0000<SK+0021
+<PRI<MS3Il utilisait ses pouvoirs
+pour guider son peuple,<NOD
+et les gens l'aimaient pour cela.<NOD<CLR
+Bien plus que leur propre roi...<NOD<END

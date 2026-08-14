@@ -1,0 +1,61 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0099
+<KEY<MNA<CMU0008
+<ANP0200:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0200:0000:0000
+<MYD0002<DNP0301<SMC<END
+
+#0100
+<KEY<FAO0002<TRA0056:0092:0008:0049
+
+#0200
+<KEY<MSG
+Destination inconnue.<NOD
+Utiliser le teleporteur?<YNJ0000<CLO<FL+0524
+<CNP0300:0111:0000<HMC<WAI0060<ANP0200:0001:0000
+<WAI0100<FAO0004<TRA0018:0099:0015:0010
+
+
+#0400
+<PRI<MSG
+Oh, t'es une fille robot?<NOD<CLR
+Tu viens nous sauver?<NOD<END
+#0401
+<PRI<MSG
+Liberez nous!<NOD<END
+#0402
+<PRI<MSG
+Ce Docteur idiot peut aller
+se faire voir!<NOD<END
+
+#0403
+<PRI<MSG
+Les Mimigas d'ici sont abreuves
+de mensonges!<NOD<CLR
+Le Docteur va nous faire
+combattre les robots!<NOD<END
+#0404
+<PRI<MSG
+Tu connais une "Sakamoto"?<NOD
+Elle est supposee cachee
+quelque part dans la plantation...<NOD<END
+#0405
+<PRI<MSG
+Il y avait un couple d'humains
+ici avant, mais je les ai
+pas revus...<NOD
+J'me demande s'ils ont pu
+s'echapper..<NOD<END
+
