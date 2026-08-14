@@ -1,4 +1,4 @@
-name: Build and release patch
+name: Test build
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-and-release:
+  test-build:
     runs-on: ubuntu-latest
 
     steps:
@@ -34,12 +34,10 @@ jobs:
           cd ..
           ls -l cspfr-patch-linux.zip
 
-      - name: Publish GitHub release
-        uses: softprops/action-gh-release@v2
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
         with:
-          files: |
+          name: patch-build-artifacts
+          path: |
             cspfrpatch.exe
             cspfr-patch-linux.zip
-          generate_release_notes: true
-          draft: false
-          prerelease: false
