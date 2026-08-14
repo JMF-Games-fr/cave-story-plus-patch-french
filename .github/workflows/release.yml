@@ -2,20 +2,37 @@ name: Build and release patch
 
 on:
   push:
-    branches:
-      - "master"
-  pull_request:
-    branches:
-      - "master"
+    tags:
+      - '*'
   workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag to publish as a GitHub Release'
+        required: true
+        type: string
+
+permissions:
+  contents: write
 
 jobs:
   build-and-release:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Validate tag
+        run: |
+          TAG="${{ github.event_name == 'workflow_dispatch' && inputs.tag || github.ref_name }}"
+          if [ -z "$TAG" ]; then
+            echo "No tag provided for release."
+            exit 1
+          fi
+          echo "Release tag: $TAG"
+
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event_name == 'workflow_dispatch' && format('refs/tags/{0}', inputs.tag) || github.ref }}
 
       - name: Install NSIS
         run: |
@@ -37,6 +54,8 @@ jobs:
       - name: Publish GitHub release
         uses: softprops/action-gh-release@v2
         with:
+          tag_name: ${{ github.event_name == 'workflow_dispatch' && inputs.tag || github.ref_name }}
+          name: ${{ github.event_name == 'workflow_dispatch' && inputs.tag || github.ref_name }}
           files: |
             cspfrpatch.exe
             cspfr-patch-linux.zip
